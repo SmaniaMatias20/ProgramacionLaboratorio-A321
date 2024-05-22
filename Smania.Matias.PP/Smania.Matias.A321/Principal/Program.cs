@@ -10,7 +10,7 @@ namespace Principal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola");
+            Console.WriteLine("Hola como estas");
         }
     }
 }
