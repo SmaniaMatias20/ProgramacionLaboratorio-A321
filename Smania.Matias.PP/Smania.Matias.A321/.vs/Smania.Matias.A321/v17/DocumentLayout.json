@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.PP\\Smania.Matias.A321\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37EAC775-D648-4DF2-AB9F-AA66A78E5C44}|Principal\\Principal.csproj|c:\\users\\smania matias\\desktop\\examen\\porgramacionlaboratorio-a321\\smania.matias.pp\\smania.matias.a321\\principal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EAC775-D648-4DF2-AB9F-AA66A78E5C44}|Principal\\Principal.csproj|solutionrelative:principal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.PP\\Smania.Matias.A321\\Principal\\Program.cs",
+              "RelativeDocumentMoniker": "Principal\\Program.cs",
+              "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.PP\\Smania.Matias.A321\\Principal\\Program.cs",
+              "RelativeToolTip": "Principal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:02:08.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
