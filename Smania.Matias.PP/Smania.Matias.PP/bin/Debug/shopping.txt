@@ -1,0 +1,34 @@
+
+Capacidad del shopping: 5
+Total por Importadores: $324900
+Total por Exportadores: $44295
+Total: $369195
+********************
+Listado de comercios
+********************
+Nombre: Electrónica 80
+Comerciante: Domingo, Caballo
+Cantidad Empleados: 0
+Tipo: Tecnologico
+
+Nombre: Granola S.A.
+Comerciante: Alberto, Samudio
+Cantidad Empleados: 0
+Pais: UnionEuropea
+
+Nombre: Matarife
+Comerciante: Joe, Molleja
+Cantidad Empleados: 0
+Tipo: Rural
+
+Nombre: Matarife
+Comerciante: Alberto, Samudio
+Cantidad Empleados: 0
+Pais: Taiwan
+
+Nombre: Matarife
+Comerciante: Domingo, Caballo
+Cantidad Empleados: 0
+Pais: China
+
+

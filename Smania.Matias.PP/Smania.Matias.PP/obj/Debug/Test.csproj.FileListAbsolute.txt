@@ -1,0 +1,12 @@
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\bin\Debug\Smania.Matias.PP.exe.config
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\bin\Debug\Smania.Matias.PP.exe
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\bin\Debug\Smania.Matias.PP.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\bin\Debug\Entidades.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\bin\Debug\Entidades.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\obj\Debug\Test.csproj.Up2Date
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\obj\Debug\Smania.Matias.PP.exe
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.PP\Smania.Matias.PP\obj\Debug\Smania.Matias.PP.pdb
