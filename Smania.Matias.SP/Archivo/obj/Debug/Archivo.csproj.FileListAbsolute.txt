@@ -16,3 +16,12 @@ C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Archivo\obj\Debug\Archivo.
 C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Archivo\obj\Debug\Archivo.csproj.Up2Date
 C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Archivo\obj\Debug\Archivo.dll
 C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Archivo\obj\Debug\Archivo.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Archivo\bin\Debug\Archivo.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Archivo\bin\Debug\Archivo.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Archivo\bin\Debug\Entidades.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Archivo\bin\Debug\Entidades.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Archivo\obj\Debug\Archivo.csproj.AssemblyReference.cache
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Archivo\obj\Debug\Archivo.csproj.CoreCompileInputs.cache
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Archivo\obj\Debug\Archivo.csproj.Up2Date
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Archivo\obj\Debug\Archivo.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Archivo\obj\Debug\Archivo.pdb

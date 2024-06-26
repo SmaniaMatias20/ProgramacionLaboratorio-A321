@@ -32,3 +32,20 @@ C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formu
 C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.csproj.Up2Date
 C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.exe
 C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\obj\Debug\Formulario.FrmPricipal.resources
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\bin\Debug\Formulario.exe
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\bin\Debug\Archivo.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\bin\Debug\Entidades.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\bin\Debug\VistaPatentes.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\bin\Debug\Archivo.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\bin\Debug\Entidades.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\bin\Debug\VistaPatentes.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\obj\Debug\Formulario.csproj.Up2Date
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\obj\Debug\Formulario.exe
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Formulario\obj\Debug\Formulario.pdb

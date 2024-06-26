@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enum.cs" />
     <Compile Include="Patente.cs" />
     <Compile Include="PatenteInvalidaException.cs" />
     <Compile Include="PatenteStringExtension.cs" />

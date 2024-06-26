@@ -10,3 +10,9 @@ C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\obj\Debug\Entida
 C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.dll
 C:\Users\zbarr\OneDrive\Escritorio\Apellido.Nombre.SP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Smania Matias\Desktop\Examen\PorgramacionLaboratorio-A321\Smania.Matias.SP\Entidades\obj\Debug\Entidades.pdb
