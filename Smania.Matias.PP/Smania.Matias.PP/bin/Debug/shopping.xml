@@ -6,7 +6,7 @@
   <CapacidadMaxima>5</CapacidadMaxima>
   <Comercios>
     <Comercio xsi:type="Exportador">
-      <CantidadDeEmpleados>42</CantidadDeEmpleados>
+      <CantidadDeEmpleados>29</CantidadDeEmpleados>
       <Nombre>Electrónica 80</Nombre>
       <PrecioAlquiler>15200</PrecioAlquiler>
       <Comerciante>
@@ -15,7 +15,7 @@
       </Comerciante>
     </Comercio>
     <Comercio xsi:type="Importador">
-      <CantidadDeEmpleados>63</CantidadDeEmpleados>
+      <CantidadDeEmpleados>45</CantidadDeEmpleados>
       <Nombre>Granola S.A.</Nombre>
       <PrecioAlquiler>23900</PrecioAlquiler>
       <Comerciante>
@@ -24,7 +24,7 @@
       </Comerciante>
     </Comercio>
     <Comercio xsi:type="Exportador">
-      <CantidadDeEmpleados>28</CantidadDeEmpleados>
+      <CantidadDeEmpleados>24</CantidadDeEmpleados>
       <Nombre>Matarife</Nombre>
       <PrecioAlquiler>29095</PrecioAlquiler>
       <Comerciante>
@@ -33,7 +33,7 @@
       </Comerciante>
     </Comercio>
     <Comercio xsi:type="Importador">
-      <CantidadDeEmpleados>84</CantidadDeEmpleados>
+      <CantidadDeEmpleados>93</CantidadDeEmpleados>
       <Nombre>Matarife</Nombre>
       <PrecioAlquiler>203000</PrecioAlquiler>
       <Comerciante>
@@ -42,7 +42,7 @@
       </Comerciante>
     </Comercio>
     <Comercio xsi:type="Importador">
-      <CantidadDeEmpleados>98</CantidadDeEmpleados>
+      <CantidadDeEmpleados>57</CantidadDeEmpleados>
       <Nombre>Matarife</Nombre>
       <PrecioAlquiler>98000</PrecioAlquiler>
       <Comerciante>

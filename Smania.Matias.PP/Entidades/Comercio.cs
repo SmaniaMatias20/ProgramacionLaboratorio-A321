@@ -88,6 +88,7 @@ namespace Entidades
             _nombre = nombreComercio;
             _comerciante = new Comerciante { Nombre = nombre, Apellido = apellido };
             _precioAlquiler = precioAlquiler;
+            _cantidadDeEmpleados = CantidadDeEmpleados;
         }
 
         /// <summary>

@@ -8,27 +8,27 @@ Listado de comercios
 ********************
 Nombre: Electrónica 80
 Comerciante: Domingo, Caballo
-Cantidad Empleados: 0
+Cantidad Empleados: 29
 Tipo: Tecnologico
 
 Nombre: Granola S.A.
 Comerciante: Alberto, Samudio
-Cantidad Empleados: 0
+Cantidad Empleados: 45
 Pais: UnionEuropea
 
 Nombre: Matarife
 Comerciante: Joe, Molleja
-Cantidad Empleados: 0
+Cantidad Empleados: 24
 Tipo: Rural
 
 Nombre: Matarife
 Comerciante: Alberto, Samudio
-Cantidad Empleados: 0
+Cantidad Empleados: 93
 Pais: Taiwan
 
 Nombre: Matarife
 Comerciante: Domingo, Caballo
-Cantidad Empleados: 0
+Cantidad Empleados: 57
 Pais: China
 
 
