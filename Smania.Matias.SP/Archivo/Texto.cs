@@ -7,6 +7,11 @@ namespace Archivo
 {
     public class Texto : IArchivo
     {
+        /// <summary>
+        /// Guarda la lista de patentes en un archivo de texto en el escritorio.
+        /// </summary>
+        /// <param name="datos">Lista de objetos Patente a guardar.</param>
+        /// <returns>true si se guardaron correctamente las patentes; false, si ocurrió un error.</returns>
         public bool Guardar(List<Patente> datos) 
         {
             try
@@ -26,12 +31,15 @@ namespace Archivo
             }
             catch (Exception ex)
             {
-                // Manejar excepción
                 Console.WriteLine(ex.Message);
                 return false;
             }
         }
 
+        /// <summary>
+        /// Lee las patentes almacenadas en un archivo de texto en el escritorio.
+        /// </summary>
+        /// <returns>Lista de objetos Patente leídos desde el archivo.</returns>
         public List<Patente> Leer() 
         {
             List<Patente> patentes = new List<Patente>();
@@ -45,7 +53,9 @@ namespace Archivo
                     string line;
                     while ((line = reader.ReadLine()) != null)
                     {
-                        Patente patente = PatenteStringExtension.ValidarPatente(line);
+                        string codigoPatente = line.Split(',')[0];
+
+                        Patente patente = PatenteStringExtension.ValidarPatente(codigoPatente);
                         if (patente != null)
                         {
                             patentes.Add(patente);

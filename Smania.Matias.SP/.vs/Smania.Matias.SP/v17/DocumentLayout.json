@@ -7,24 +7,12 @@
       "RelativeMoniker": "D:0:0:{3F13393D-015E-4651-9FA8-AB2B71485257}|Formulario\\Formulario.csproj|solutionrelative:formulario\\frmpricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D17B0033-D026-43AF-935D-C82520B05AC1}|VistaPatente\\VistaPatentes.csproj|c:\\users\\smania matias\\desktop\\examen\\porgramacionlaboratorio-a321\\smania.matias.sp\\vistapatente\\vistapatente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17B0033-D026-43AF-935D-C82520B05AC1}|VistaPatente\\VistaPatentes.csproj|solutionrelative:vistapatente\\vistapatente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F13393D-015E-4651-9FA8-AB2B71485257}|Formulario\\Formulario.csproj|c:\\users\\smania matias\\desktop\\examen\\porgramacionlaboratorio-a321\\smania.matias.sp\\formulario\\frmpricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3F13393D-015E-4651-9FA8-AB2B71485257}|Formulario\\Formulario.csproj|solutionrelative:formulario\\frmpricipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|c:\\users\\smania matias\\desktop\\examen\\porgramacionlaboratorio-a321\\smania.matias.sp\\entidades\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7081766-6A0B-4BFF-B9D6-01667525E383}|Entidades\\Entidades.csproj|solutionrelative:entidades\\patente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|c:\\users\\smania matias\\desktop\\examen\\porgramacionlaboratorio-a321\\smania.matias.sp\\archivo\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|solutionrelative:archivo\\xml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\archivo\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|solutionrelative:archivo\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|c:\\users\\smania matias\\desktop\\examen\\porgramacionlaboratorio-a321\\smania.matias.sp\\archivo\\texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E79A014E-238C-40AC-B3F8-1937063068FB}|Archivo\\Archivo.csproj|solutionrelative:archivo\\texto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,22 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Sql.cs",
-              "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Archivo\\Sql.cs",
-              "RelativeDocumentMoniker": "Archivo\\Sql.cs",
-              "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Archivo\\Sql.cs",
-              "RelativeToolTip": "Archivo\\Sql.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAD4vzsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T20:15:43.664Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -58,9 +32,23 @@
               "RelativeDocumentMoniker": "Formulario\\FrmPricipal.cs",
               "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Formulario\\FrmPricipal.cs",
               "RelativeToolTip": "Formulario\\FrmPricipal.cs",
-              "ViewState": "AQIAAPwAAAAAAAAAAIAxwN0AAAAAAAAA",
+              "ViewState": "AQIAAPEAAAAAAAAAAAAlwBIBAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T22:48:31.203Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VistaPatente.cs",
+              "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\VistaPatente\\VistaPatente.cs",
+              "RelativeDocumentMoniker": "VistaPatente\\VistaPatente.cs",
+              "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\VistaPatente\\VistaPatente.cs",
+              "RelativeToolTip": "VistaPatente\\VistaPatente.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAD4vyoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:50:03.16Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -74,54 +62,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmPricipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Formulario\\FrmPricipal.cs",
               "RelativeDocumentMoniker": "Formulario\\FrmPricipal.cs",
               "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Formulario\\FrmPricipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "Formulario\\FrmPricipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T23:13:21.985Z",
+              "WhenOpened": "2024-06-27T00:05:39.274Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Patente.cs",
-              "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Entidades\\Patente.cs",
-              "RelativeDocumentMoniker": "Entidades\\Patente.cs",
-              "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Entidades\\Patente.cs",
-              "RelativeToolTip": "Entidades\\Patente.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T23:10:38.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Xml.cs",
-              "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Archivo\\Xml.cs",
-              "RelativeDocumentMoniker": "Archivo\\Xml.cs",
-              "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Archivo\\Xml.cs",
-              "RelativeToolTip": "Archivo\\Xml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T23:09:32.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Texto.cs",
-              "DocumentMoniker": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Archivo\\Texto.cs",
-              "RelativeDocumentMoniker": "Archivo\\Texto.cs",
-              "ToolTip": "C:\\Users\\Smania Matias\\Desktop\\Examen\\PorgramacionLaboratorio-A321\\Smania.Matias.SP\\Archivo\\Texto.cs",
-              "RelativeToolTip": "Archivo\\Texto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T23:07:43.076Z",
-              "EditorCaption": ""
             }
           ]
         }

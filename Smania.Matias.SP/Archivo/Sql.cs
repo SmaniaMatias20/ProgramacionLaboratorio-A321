@@ -8,17 +8,26 @@ namespace Archivo
 {
     public class Sql : IArchivo
     {
+        // Atributos
         private SqlCommand _comando;
         private SqlConnection _conexion;
 
+        /// <summary>
+        /// Inicializa una nueva instancia de la clase Sql.
+        /// </summary>
         public Sql()
         {
             _conexion = new SqlConnection("Data Source=DESKTOP-HEJ5SS0\\SQLEXPRESS;Initial Catalog=lab_sp;Integrated Security=True;");
             _comando = new SqlCommand();
-            _comando.CommandType = System.Data.CommandType.Text;
+            _comando.CommandType = CommandType.Text;
             _comando.Connection = _conexion;
         }
 
+        /// <summary>
+        /// Guarda la lista de patentes en la base de datos.
+        /// </summary>
+        /// <param name="datos">Lista de objetos Patente a guardar.</param>
+        /// <returns>True si se guardaron correctamente las patentes, False en caso contrario.</returns>
         public bool Guardar(List<Patente> datos) 
         {
             try
@@ -32,6 +41,7 @@ namespace Archivo
                         _comando.ExecuteNonQuery();
                     }
                 }
+
                 return true;
             }
             catch (Exception ex)
@@ -41,6 +51,10 @@ namespace Archivo
             }
         }
 
+        /// <summary>
+        /// Lee todas las patentes almacenadas en la base de datos.
+        /// </summary>
+        /// <returns>Lista de objetos Patente leídos desde la base de datos.</returns>
         public List<Patente> Leer() 
         {
             List<Patente> patentes = new List<Patente>();

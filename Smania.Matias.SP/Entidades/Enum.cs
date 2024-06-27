@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    /// <summary>
+    /// Enumeración que define los tipos de patente disponibles.
+    /// </summary>
     public enum ETipo
     {
         Vieja,

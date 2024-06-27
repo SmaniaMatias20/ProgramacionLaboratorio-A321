@@ -20,17 +20,19 @@ namespace Formulario
         List<Thread> listaThreads;
 
         /// <summary>
-        /// Inicializa una nueva instancia de la clase <see cref="FrmPricipal"/>.
+        /// Inicializa una nueva instancia del formulario principal para la gestión de patentes.
         /// </summary>
         public FrmPricipal()
         {
             InitializeComponent();
             patentes = new List<Patente>();
             listaThreads = new List<Thread>();
+
+
         }
 
         /// <summary>
-        /// Manejador del evento Load del formulario.
+        /// Manejador del evento Load del formulario principal.
         /// </summary>
         /// <param name="sender">El origen del evento.</param>
         /// <param name="e">Los datos del evento.</param>
@@ -54,6 +56,7 @@ namespace Formulario
         /// <param name="e">Los datos del evento.</param>
         private void FrmPricipal_FormClosing(object sender, FormClosingEventArgs e)
         {
+            // Finaliza la simulacion
             FinalizarSimulacion();
         }
 
@@ -127,16 +130,16 @@ namespace Formulario
         {
             try
             {
-                // Instanciar la clase Sql que implementa la interfaz IArchivo
+                // Instancia la clase Sql que implementa la interfaz IArchivo
                 IArchivo sqlArchivo = new Sql();
 
-                // Leer patentes desde la base de datos SQL
+                // Lee las patentes desde la base de datos SQL
                 List<Patente> patentesDesdeSql = sqlArchivo.Leer();
 
-                // Verificar si se han leído patentes correctamente
+                // Verifica si se han leído patentes correctamente
                 if (patentesDesdeSql.Count > 0)
                 {
-                    // Agregar las patentes leídas desde SQL a la lista principal
+                    // Agrega las patentes leídas desde SQL a la lista principal
                     patentes.AddRange(patentesDesdeSql);
 
                     // Iniciar la simulación
@@ -153,6 +156,7 @@ namespace Formulario
                 MessageBox.Show("Error al leer las patentes desde la base de datos SQL: " + ex.Message,
                                 "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+
 
         }
 
@@ -194,6 +198,7 @@ namespace Formulario
                                 "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
+
         }
 
         /// <summary>
@@ -233,6 +238,7 @@ namespace Formulario
                                 "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
+
         }
 
         /// <summary>
@@ -240,10 +246,11 @@ namespace Formulario
         /// </summary>
         private void IniciarSimulacion()
         {
-            // Implementar el método FinalizarSimulación
+            //Implementar el método FinalizarSimulación
             // que se encarga de finalizar todos los hilos activos
             FinalizarSimulacion();
             ProximaPatente(vistaPatente);
+
         }
 
         /// <summary>
@@ -286,7 +293,7 @@ namespace Formulario
             {
                 if (thread.IsAlive)
                 {
-                    thread.Abort(); // Aborta el hilo si aún está activo
+                    thread.Abort();
                 }
             }
         }

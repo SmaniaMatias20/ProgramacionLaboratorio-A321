@@ -8,6 +8,11 @@ namespace Archivo
 {
     public class Xml : IArchivo
     {
+        /// <summary>
+        /// Guarda la lista de objetos Patente en un archivo XML en el escritorio del usuario.
+        /// </summary>
+        /// <param name="datos">Lista de objetos Patente a ser guardados.</param>
+        /// <returns>true si se guardaron correctamente los datos; de lo contrario, false.</returns>
         public bool Guardar(List<Patente> datos)
         {
             try
@@ -25,12 +30,15 @@ namespace Archivo
             }
             catch (Exception ex)
             {
-                // Manejar excepción
                 Console.WriteLine(ex.Message);
                 return false;
             }
         }
 
+        /// <summary>
+        /// Lee los datos de un archivo XML que contiene una lista de objetos Patente desde el escritorio del usuario.
+        /// </summary>
+        /// <returns>Lista de objetos Patente leídos desde el archivo XML.</returns>
         public List<Patente> Leer()
         {
             try
@@ -46,7 +54,6 @@ namespace Archivo
             }
             catch (Exception ex)
             {
-                // Manejar excepción
                 Console.WriteLine(ex.Message);
                 return new List<Patente>();
             }
